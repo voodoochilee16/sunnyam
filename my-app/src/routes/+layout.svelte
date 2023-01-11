@@ -19,7 +19,7 @@
 
   <div class="drawer-side">
     <label for="my-drawer" class="drawer-overlay"></label>
-    <Nav/>
+    <Nav></Nav>
   </div>
 </div>
 
