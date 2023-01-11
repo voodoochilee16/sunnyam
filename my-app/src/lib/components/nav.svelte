@@ -8,10 +8,10 @@
 	<li><a on:click|preventDefault={scrollIntoView} on:click={toggleDrawer} href ="#venue"  class="font-bold text-xl lg:text-4xl">Venue</a></li>
 </ul> -->
 
-<div class="flex justify-between menu p-4 w-[70vw] lg:w-[35vw] bg-[#F47D51] text-white">
+<div class="flex justify-between menu p-4 w-[100vw] lg:w-[35vw] bg-[#F47D51] text-[#EAE1C8]">
     <ul>
-        <li><a href ="#design-display"  class="font-bold text-xl lg:text-4xl">MUSIC</a></li>
-        <li><a href ="#call-for-papers"  class="font-bold text-xl lg:text-4xl">TOUR</a></li>
+        <li><a href ="/"  class="font-bold text-xl lg:text-4xl">MUSIC</a></li>
+        <li><a href ="/tour"  class="font-bold text-xl lg:text-4xl">TOUR</a></li>
         <li><a href ="https://sunnyam.bandcamp.com/merch"  class="font-bold text-xl lg:text-4xl">MERCH</a></li>
         <li><a href ="/contact"  class="font-bold text-xl lg:text-4xl">CONTACT</a></li>
     </ul>

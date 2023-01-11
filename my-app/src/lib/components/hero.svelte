@@ -3,7 +3,7 @@
         <img src="/sunny.svg" alt="">
       </div>
       <div class="flex justify-center">
-        <img src="/aw.svg" alt="">
+        <img src="/artwork.svg" alt="">
       </div>
       <div class="flex justify-center mb-10">
         <p class="text-[#F47D51]">ALL THE LIGHTS ON</p>
