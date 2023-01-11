@@ -13,7 +13,9 @@
       <img class="h-[70px] lg:h-[100px]" src="menu.png" alt="more">
     </label>
     <slot />
-    <Footer />
+    <div class="p-5">
+      <Footer />
+    </div>
     <!-- Page content here -->
   </div> 
 
