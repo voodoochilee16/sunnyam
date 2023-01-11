@@ -17,7 +17,7 @@
   
   <Footer></Footer>
   
-  <img class="h-[150px] fixed bottom-10 right-7 z-50" src="palmtree_1.svg" alt="">
+  <img class="h-[150px] fixed bottom-10 right-7 z-0 hover:fill-slate-50" src="palmtree_1.svg" alt="">
   <img class="h-[150px] fixed bottom-10 left-7" src="bird.svg" alt="">
 </body>
 
