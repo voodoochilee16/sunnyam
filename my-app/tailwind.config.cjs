@@ -4,7 +4,8 @@ module.exports = {
   theme: {
     colors: {
       mainorange: "#FBC334",
-      borderpink: "#EA7BB1"
+      borderpink: "#EA7BB1",
+      whitestar: "#EAE1C8",
     },
     extend: {
       
