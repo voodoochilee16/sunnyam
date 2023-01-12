@@ -16,9 +16,10 @@
       </div>
   
       <div class="flex justify-center relative">
-        <img class="object-contain" src="/listen.svg" alt="">
-        <div class="m-3 absolute text-white">
-            <p>LISTEN NOW</p>
+        <div class="m-3 absolute text-white bg-[url('/button.svg')]">
+            <a href="">
+              <p class="text-whitestar p-1">LISTEN NOW</p>
+            </a>
           </div>
       </div>
   </div>
