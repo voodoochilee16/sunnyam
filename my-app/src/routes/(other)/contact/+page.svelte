@@ -15,11 +15,12 @@
       </div>
       <form action="" method="post" class="mt-20 flex flex-col items-center gap-1 md:gap-3">
                 <label for="name"></label>
-                <input class="bg-mainorange border-4 border-borderpink  md:h-[50px] md:w-[500px]" type="text" name="name" id="name" placeholder="Your name" />
+                <input class="bg-mainorange border-4 border-borderorange  md:h-[50px] md:w-[500px]" type="text" name="name" id="name" placeholder="Your name" />
                 <label for="name"></label>
-                <input class="bg-mainorange border-4 border-borderpink md:h-[50px] md:w-[500px]" type="text" name="name" id="name" placeholder="Your email"/>
+                <input class="bg-mainorange border-4 border-borderorange md:h-[50px] md:w-[500px]" type="text" name="name" id="name" placeholder="Your email"/>
                 <label for="name"></label>
-                <input class="bg-mainorange border-4 border-borderpink h-[100px] md:h-[200px] md:w-[500px]" type="text" name="name" id="name" placeholder="Your message"/>
+                <input class="bg-mainorange border-4 border-borderorange h-[100px] md:h-[200px] md:w-[500px]" type="text" name="name" id="name" placeholder="Your message"/>
+                <button class="bg-borderpink p-4 pl-10 pr-10 rounded-md" type="submit">Submit</button>
       </form>
       <Footercontact></Footercontact>
       <label for="my-drawer" class="cursor-pointer z-50 mix-blend-difference drawer-button fixed top-4 right-4 lg:top-4 lg:right-2">

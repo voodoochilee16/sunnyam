@@ -6,6 +6,7 @@ module.exports = {
       mainorange: "#FBC334",
       borderpink: "#EA7BB1",
       whitestar: "#EAE1C8",
+      borderorange: "#F47D51",
     },
     extend: {
       
