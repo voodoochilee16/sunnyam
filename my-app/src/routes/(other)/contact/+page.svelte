@@ -15,11 +15,11 @@
       </div>
       <form action="" method="post" class="mt-20 flex flex-col items-center gap-3">
                 <label for="name"></label>
-                <input class="bg-mainorange border-4 border-borderpink flex justify-center" type="text" name="name" id="name" placeholder="Your name" size="50"/>
+                <input class="bg-mainorange border-4 border-borderpink  md:h-[50px] md:w-[500px]" type="text" name="name" id="name" placeholder="Your name" />
                 <label for="name"></label>
-                <input class="bg-mainorange border-4 border-borderpink" type="text" name="name" id="name" placeholder="Your email" size="50"/>
+                <input class="bg-mainorange border-4 border-borderpink md:h-[50px] md:w-[500px]" type="text" name="name" id="name" placeholder="Your email"/>
                 <label for="name"></label>
-                <input class="bg-mainorange border-4 border-borderpink h-[200px]" type="text" name="name" id="name" placeholder="Your message" size="50"/>
+                <input class="bg-mainorange border-4 border-borderpink h-[100px] md:h-[200px] md:w-[500px]" type="text" name="name" id="name" placeholder="Your message"/>
       </form>
       <Footercontact></Footercontact>
         <label for="my-drawer" class="cursor-pointer z-50 mix-blend-difference drawer-button fixed top-4 right-4 lg:top-12 lg:right-12">
