@@ -12,13 +12,13 @@
         <img class="w-[50vw] md:w-[360px]" src="/artwork.svg" alt="">
       </div>
       <div class="flex justify-center mb-2">
-        <p class="text-[#F47D51]">ALL THE LIGHTS ON</p>
+        <p class="text-[#F47D51] md:text-2xl">ALL THE LIGHTS ON</p>
       </div>
   
       <div class="flex justify-center relative">
-        <div class="m-1 absolute text-white bg-[url('/button.svg')]">
+        <div class="m-1 absolute text-white bg-no-repeat bg-cover bg-[url('/button.svg')]">
             <a href="">
-              <p class="text-whitestar p-1">LISTEN NOW</p>
+              <p class="text-whitestar p-1 md:text-2xl">LISTEN NOW</p>
             </a>
           </div>
       </div>
