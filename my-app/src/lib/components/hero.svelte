@@ -11,12 +11,12 @@
       <div class="flex justify-center">
         <img class="w-[50vw] md:w-[360px]" src="/artwork.svg" alt="">
       </div>
-      <div class="flex justify-center mb-10">
+      <div class="flex justify-center mb-2">
         <p class="text-[#F47D51]">ALL THE LIGHTS ON</p>
       </div>
   
       <div class="flex justify-center relative">
-        <div class="m-3 absolute text-white bg-[url('/button.svg')]">
+        <div class="m-1 absolute text-white bg-[url('/button.svg')]">
             <a href="">
               <p class="text-whitestar p-1">LISTEN NOW</p>
             </a>
