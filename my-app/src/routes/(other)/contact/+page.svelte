@@ -13,7 +13,6 @@
       <div class="flex justify-center mt-">
         <a href="/"><img class="w-[47vw] mt-20 md:mt-10 md:w-[360px]" src="/sunny.svg" alt=""></a>
       </div>
-    
       <form action="" method="post" class="mt-20 flex flex-col items-center gap-3">
                 <label for="name"></label>
                 <input class="bg-mainorange border-4 border-borderpink flex justify-center" type="text" name="name" id="name" placeholder="Your name" size="50"/>
