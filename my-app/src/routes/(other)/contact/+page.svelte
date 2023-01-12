@@ -2,7 +2,7 @@
 <script>
     import Hero from "$lib/components/hero.svelte";
     import Nav from "$lib/components/nav.svelte";
-    import Footer from "$lib/components/footer.svelte";
+    import Footercontact from "$lib/components/footercontact.svelte";
 </script>
 
 
@@ -22,6 +22,7 @@
                 <label for="name"></label>
                 <input class="bg-mainorange border-4 border-borderpink h-[200px]" type="text" name="name" id="name" placeholder="Your message" size="50"/>
       </form>
+      <Footercontact></Footercontact>
         <label for="my-drawer" class="cursor-pointer z-50 mix-blend-difference drawer-button fixed top-4 right-4 lg:top-12 lg:right-12">
             <img class="h-[60px] lg:h-[60px]" src="hamburger.svg" alt="more">
           </label>
@@ -33,6 +34,4 @@
   </div>
 
 
-
-<Footer></Footer>
 

@@ -15,7 +15,7 @@
         <li><a href ="https://sunnyam.bandcamp.com/merch"  class="font-bold text-xl lg:text-4xl">MERCH</a></li>
         <li><a href ="/contact"  class="font-bold text-xl lg:text-4xl">CONTACT</a></li>
     </ul>
-    <div class="flex justify-center">
+    <div class=" hidden flex justify-center">
         <Footerw></Footerw>
     </div>
 </div>
