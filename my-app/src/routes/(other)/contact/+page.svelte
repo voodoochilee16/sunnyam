@@ -22,8 +22,8 @@
                 <input class="bg-mainorange border-4 border-borderpink h-[100px] md:h-[200px] md:w-[500px]" type="text" name="name" id="name" placeholder="Your message"/>
       </form>
       <Footercontact></Footercontact>
-        <label for="my-drawer" class="cursor-pointer z-50 mix-blend-difference drawer-button fixed top-4 right-4 lg:top-12 lg:right-12">
-            <img class="h-[60px] lg:h-[60px]" src="hamburger.svg" alt="more">
+      <label for="my-drawer" class="cursor-pointer z-50 mix-blend-difference drawer-button fixed top-4 right-4 lg:top-4 lg:right-2">
+            <img class="h-[60px] lg:h-[45px]" src="hamburger.svg" alt="more">
           </label>
     </div> 
     <div class="drawer-side">
