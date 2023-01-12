@@ -2,7 +2,12 @@
 module.exports = {
   content: ["./src/**/*.{html,js,svelte,ts}"],
   theme: {
+    colors: {
+      mainorange: "#FBC334",
+      borderpink: "#EA7BB1"
+    },
     extend: {
+      
     
     },
   },
