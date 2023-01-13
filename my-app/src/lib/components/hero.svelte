@@ -18,7 +18,7 @@
       <div class="flex justify-center relative">
         <div class="m-1 absolute text-white bg-no-repeat bg-cover bg-[url('/button.svg')]">
             <a href="">
-              <p class="text-whitestar p-1 md:text-2xl">LISTEN NOW</p>
+              <p class="text-whitestar p-3 ml-6 mr-6 md:text-xl">LISTEN NOW</p>
             </a>
           </div>
       </div>
