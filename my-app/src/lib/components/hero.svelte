@@ -53,9 +53,9 @@ function rotate (event) {
       </div>
   
       <div class="flex justify-center relative">
-        <div class="m-1 absolute text-white bg-no-repeat bg-cover bg-[url('/button.svg')]">
+        <div class="m-1 absolute text-white bg-borderpink rounded-md">
             <a href="">
-              <p class="text-whitestar p-3 ml-6 mr-6 md:text-xl">LISTEN NOW</p>
+              <p class="text-whitestar p-2 ml-6 mr-6 md:text-xl">LISTEN NOW</p>
             </a>
           </div>
       </div>
