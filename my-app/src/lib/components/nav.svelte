@@ -50,14 +50,13 @@ drawer.checked = !drawer.checked;
   </svg> -->
 
 
-<div class="flex justify-between items-center md:items-start md:justify-between gap-4 menu p-4 w-[100vw] lg:w-[35vw] bg-[#F47D51] text-[#EAE1C8]">
-    <ul class="mt-[100px]">
-      
-        <button on:click={toggleDrawer}><img class="w-[40px] fixed top-3 left-[85vw] md:left-[95vw] lg:left-[32vw] mb-8" src="/close-burger.svg" alt=""></button>
-        <li><a href ="/"  class="font-bold text-xl lg:text-4xl">MUSIC</a></li>
-        <li><a href ="/tour"  class="font-bold text-xl lg:text-4xl">TOUR</a></li>
-        <li><a href ="https://sunnyam.bandcamp.com/merch"  class="font-bold text-xl lg:text-4xl">MERCH</a></li>
-        <li><a href ="/contact"  class="font-bold text-xl lg:text-4xl">CONTACT</a></li>
+<div class="flex flex-col justify-between items-center md:items-start md:justify-between gap-6 p-4 w-[100vw] lg:w-[35vw] bg-[#F47D51] text-[#EAE1C8]">
+    <ul class=" flex flex-col mt-[100px] gap-4">
+        <button on:click={toggleDrawer}><img class=" hover:text-mainorange w-[40px] fixed top-3 left-[85vw] md:left-[32.5vw] mb-8" src="/close-burger.svg" alt=""></button>
+        <li><a href ="/"  class=" hover:text-mainorange font-bold text-xl lg:text-4xl">MUSIC</a></li>
+        <li><a href ="/tour"  class=" hover:text-mainorange font-bold text-xl lg:text-4xl">TOUR</a></li>
+        <li><a href ="https://sunnyam.bandcamp.com/merch"  class=" hover:text-mainorange font-bold text-xl lg:text-4xl">MERCH</a></li>
+        <li><a href ="/contact"  class=" hover:text-mainorange font-bold text-xl lg:text-4xl">CONTACT</a></li>
        
       
     </ul>
