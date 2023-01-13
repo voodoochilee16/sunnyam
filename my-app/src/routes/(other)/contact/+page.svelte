@@ -15,12 +15,12 @@
       </div>
       <form action="" method="post" class="mt-5 flex flex-col items-center gap-1 md:gap-2">
                 <label for="name"></label>
-                <input class="bg-mainorange border-4 border-borderorange  md:h-[50px] md:w-[500px]" type="text" name="name" id="name" placeholder="Your name" />
+                <input class="bg-mainorange border-4 border-borderorange h-[55px] md:w-[500px]" type="text" name="name" id="name" placeholder="Your name" />
                 <label for="name"></label>
-                <input class="bg-mainorange border-4 border-borderorange md:h-[50px] md:w-[500px]" type="text" name="name" id="name" placeholder="Your email"/>
+                <input class="bg-mainorange border-4 border-borderorange h-[55px] md:w-[500px]" type="text" name="name" id="name" placeholder="Your email"/>
                 <label for="name"></label>
-                <input class="bg-mainorange border-4 border-borderorange h-[100px] md:h-[200px] md:w-[500px]" type="text" name="name" id="name" placeholder="Your message"/>
-                <button class="rounded-md mt-4 bg-no-repeat w-[230px] h-[52px] bg-cover bg-[url('/button.svg')] text-whitestar" type="submit">SUBMIT</button>
+                <input class="bg-mainorange border-4 border-borderorange h-[200px] md:h-[200px] md:w-[500px]" type="text" name="name" id="name" placeholder="Your message"/>
+                <button class="rounded-md mt-4 bg-no-repeat  w-[230px] h-[52px] bg-cover bg-[url('/button.svg')] text-whitestar" type="submit">SUBMIT</button>
       </form>
       <Footercontact></Footercontact>
       <label for="my-drawer" class="cursor-pointer z-50 mix-blend-difference drawer-button fixed top-4 right-4 lg:top-4 lg:right-2">
