@@ -49,13 +49,13 @@ function rotate (event) {
         <img class="w-[50vw] md:w-[360px]" src="/artwork.svg" alt="">
       </div>
       <div class="flex justify-center mb-2">
-        <p class="text-[#F47D51] md:text-2xl">ALL THE LIGHTS ON</p>
+        <p class="text-[#F47D51] text-s md:text-2xl">ALL THE LIGHTS ON</p>
       </div>
   
       <div class="flex justify-center relative">
         <div class="m-1 absolute text-white bg-borderpink rounded-md">
             <a href="">
-              <p class="text-whitestar p-2 ml-6 mr-6 md:text-xl">LISTEN NOW</p>
+              <p class="text-whitestar p-2 ml-6 mr-6 text-xs md:text-xl">LISTEN NOW</p>
             </a>
           </div>
       </div>
