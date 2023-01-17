@@ -6,24 +6,21 @@
   
   </script>
   
-  <div class="flex justify-center">
-      <div class="flex justify-center items-center md:mt-[15vh] bg-mainorange w-[15vw]">
-      
-        <div class="flex flex-col justify-center">
+  <div class="flex justify-center mt-[20vh]">
+    
+      <div class="flex flex-col justify-center items-stretch md:mt-[15vh] bg-mainorange w-[60vw] p-6">
+        <div class="flex justify-between">
+            <div class="flex justify-center items-end">
+                <p class="text-[#F47D51] text-2xs md:text-2xs">ALL THE LIGHTS ON</p>
+              </div>
             <div class="flex justify-center">
-              <a href="/"><img class=" object-contain w-[50vw] md:w-[360px]" src="/artwork.svg" alt=""></a>
+              <a href="/"><img class=" object-contain w-[30vw] md:w-[260px] mb-6" src="/artwork.svg" alt=""></a>
             </div>
-            <div class="flex justify-center mb-2">
-              <p class="text-[#F47D51] text-s md:text-2xl">ALL THE LIGHTS ON</p>
-            </div>
-      
-            <div class="flex justify-center relative">
-              <div class="m-1 absolute text-white bg-borderpink rounded-md">
-                  <a href="">
-                    <p class="text-whitestar p-2 ml-6 mr-6 text-xs md:text-xl">LISTEN NOW</p>
-                  </a>
-                </div>
-            </div>
+           
+              <div class="flex items-end">
+                <p class="text-[#F47D51] text-2xs md:text-2xs">ALL THE LIGHTS ON</p>
+              </div>
         </div>
+        
       </div>
   </div>
