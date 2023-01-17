@@ -15,7 +15,7 @@
 
   
   
-  <body >
+<body >
   
     <header>
      
@@ -26,4 +26,4 @@
     
     <Footer></Footer>
 
-  </body>
+</body>
