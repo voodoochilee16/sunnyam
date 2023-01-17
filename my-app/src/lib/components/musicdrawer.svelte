@@ -1,6 +1,6 @@
 <script>
     import Musichero from "./musichero.svelte";
-    import Nav from "$lib/components/nav.svelte";
+    import Musicnav from "./musicnav.svelte";
 
 </script>
 
@@ -16,6 +16,6 @@
     </div> 
     <div class="drawer-side">
       <label for="my-drawer" class="drawer-overlay"></label>
-      <Nav></Nav>
+      <Musicnav/>
     </div>
   </div>
