@@ -10,6 +10,10 @@
       <div class="">
         <a href="/"><img class="w-[70vw] md:w-[500px] mt-[100px]" src="/cover.png" alt="" srcset=""></a>
       </div> 
+
+      <div>
+        <p class="text-[#EAE1C8] text-center">Seat back, relax and enjoy <br> SUNNY A.M.</p>
+      </div>
       <!-- logos -->
       <div class="flex flex-col gap-5">
         <!-- spotify -->
@@ -71,6 +75,10 @@
                         M64.835,70.857H12.593l20.32-43.965h52.244L64.835,70.857z"/>
                     </g>
                     </svg>
+          </div>
+
+          <div>
+            <p class="text-[#EAE1C8] text-center">follow on instagram</p>
           </div>
           
       </div>
