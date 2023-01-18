@@ -45,7 +45,7 @@
             <defs>
               <style>
                 .cls-1 {
-                  fill: none;
+                  fill: #100f0d;
                 }
           
                 .cls-2 {
