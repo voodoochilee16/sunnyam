@@ -7,7 +7,7 @@
 
 <body class="bg-borderorange">
     <Musicdrawer></Musicdrawer>
-    <Footerw></Footerw>
+
     
     
 </body>
