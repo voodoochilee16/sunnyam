@@ -78,7 +78,7 @@
           </div>
 
           <div>
-            <p class="text-[#EAE1C8] text-center">follow on instagram</p>
+            <p class="text-[#EAE1C8] text-center">follow on <a href="https://www.instagram.com/sunny.am_/?igshid=YmMyMTA2M2Y%3D">instagram</a></p>
           </div>
           
       </div>
