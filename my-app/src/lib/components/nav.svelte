@@ -26,11 +26,11 @@ drawer.checked = !drawer.checked;
         <!-- Stars -->
         <Stars />
         
-        <svg class="relative w-[170px] md:w-[130px] inset-x-[120px] inset-y-[350px] md:h-[200px] mt-12 mr-10 ml-10 lg:fixed lg:bottom-10 lg:mb-[10px]" id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 514.37 394.42">
+        <svg class="relative w-[0px] md:w-[130px] inset-x-[120px] inset-y-[350px] md:h-[200px] mt-12 mr-10 ml-10 lg:fixed lg:bottom-10 lg:mb-[10px]" id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 514.37 394.42">
             <defs>
               <style>
                 .cls-1 {
-                  fill: #eae1c8;
+                  fill: #EAE1C8;
                 }
           
                 .cls-2 {
@@ -38,7 +38,7 @@ drawer.checked = !drawer.checked;
                 }
           
                 .cls-3 {
-                  fill: #ea7bb1;
+                  fill: #FBC334;
                 }
               </style>
             </defs>
