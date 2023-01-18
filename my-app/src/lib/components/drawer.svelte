@@ -1,6 +1,7 @@
 <script>
     import Hero from "$lib/components/hero.svelte";
     import Nav from "$lib/components/nav.svelte";
+    import Whitestars from "./whitestars.svelte";
 
 </script>
 

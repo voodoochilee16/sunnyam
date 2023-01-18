@@ -2,10 +2,12 @@
   import Drawer from "./drawer.svelte";
   import Hero from "$lib/components/hero.svelte";
   import Nav from "$lib/components/nav.svelte";
+  import Whitestars from "./whitestars.svelte";
 
 
 </script>
 
+<Whitestars></Whitestars>
 <div class="flex justify-center items-center md:mt-[10vh]">
   
   <div class="flex flex-col justify-center">
