@@ -6,9 +6,9 @@
   
   </script>
   
-  <div class="flex items-center flex-col justify-center gap-6">
+  <div class="flex items-center flex-col justify-center gap-6 mb-2">
       <div class="">
-        <a href="/"><img class="w-[70vw] md:w-[500px] mt-[100px]" src="/cover.png" alt="" srcset=""></a>
+        <a href="/"><img class="w-[70vw] md:w-[300px] mt-[100px]" src="/cover.png" alt="" srcset=""></a>
       </div> 
 
       <div>
