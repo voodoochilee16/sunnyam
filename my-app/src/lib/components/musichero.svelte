@@ -6,12 +6,12 @@
   
   </script>
   
-  <div class="flex items-center flex-col justify-center">
+  <div class="flex items-center flex-col justify-center gap-6">
       <div class="">
         <a href="/"><img class="w-[70vw] md:w-[500px] mt-[100px]" src="/cover.png" alt="" srcset=""></a>
       </div> 
       <!-- logos -->
-      <div>
+      <div class="flex flex-col gap-5">
         <!-- spotify -->
         <div>
           <svg width="254" height="30" viewBox="0 0 254 30" fill="none" xmlns="http://www.w3.org/2000/svg">
