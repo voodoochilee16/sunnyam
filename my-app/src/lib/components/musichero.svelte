@@ -40,42 +40,9 @@
 
         <!-- Tidal -->
 
-        <div>
-          <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192.57 27.22">
-            <defs>
-              <style>
-                .cls-1 {
-                  fill: #100f0d;
-                }
-          
-                .cls-2 {
-                  fill: #100f0d;
-                }
-              </style>
-            </defs>
-            <rect class="cls-1" x="-134.84" y="-376.24" width="816.01" height="1056.01"/>
-            <g>
-              <polygon class="cls-2" points="59.12 8.36 65.45 8.36 65.45 25.71 70.34 25.71 70.34 8.36 76.67 8.36 76.67 4.17 59.12 4.17 59.12 8.36"/>
-              <rect class="cls-2" x="91.31" y="4.17" width="4.92" height="21.54"/>
-              <polygon class="cls-2" points="183.06 21.46 183.06 4.17 178.14 4.17 178.14 25.71 191.57 25.71 191.57 21.46 183.06 21.46"/>
-              <path class="cls-2" d="M120.58,4.16h-7.97V25.71h8.26c5.71,0,11.44-3.67,11.44-10.83,0-7.6-5.85-10.71-11.73-10.71Zm-.15,17.32h-3.05V8.35h3.17c3.96,0,6.73,2.62,6.73,6.49,0,4.08-2.74,6.64-6.84,6.64Z"/>
-              <path class="cls-2" d="M151.08,4.17l-8.96,21.54h5.26l1.59-4.25h9.08l1.57,4.25h5.41l-8.88-21.54h-5.08Zm-.79,13.47l3.25-8.43,3.21,8.43h-6.46Z"/>
-              <rect class="cls-2" x="2.85" y="2.85" width="8.92" height="8.92" transform="translate(-3.03 7.31) rotate(-45)"/>
-              <polygon class="cls-2" points="26.22 7.3 19.92 1 13.61 7.3 19.92 13.61 13.61 19.92 19.92 26.22 26.22 19.92 19.92 13.61 26.22 7.31 32.53 13.61 38.84 7.31 32.53 1 26.22 7.3"/>
-            </g>
-          </svg>
-        </div>
 
         <!-- bandcamp -->
-          <div>
-            <svg fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
-	            width="20px" height="20px" viewBox="0 0 97.75 97.75" xml:space="preserve">
-                    <g>
-                      <path d="M48.875,0C21.882,0,0,21.882,0,48.875S21.882,97.75,48.875,97.75S97.75,75.868,97.75,48.875S75.868,0,48.875,0z
-                        M64.835,70.857H12.593l20.32-43.965h52.244L64.835,70.857z"/>
-                    </g>
-                    </svg>
-          </div>
+     
 
           <div>
             <p class="text-[#EAE1C8] text-center">follow on <a href="https://www.instagram.com/sunny.am_/?igshid=YmMyMTA2M2Y%3D">instagram</a></p>
