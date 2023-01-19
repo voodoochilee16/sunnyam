@@ -8,7 +8,7 @@
 </script>
 
 <Whitestars></Whitestars>
-<div class="flex justify-center items-center md:mt-[10vh]">
+<div class="flex justify-center items-center md:mt-[7vh]">
   
   <div class="flex flex-col justify-center">
     <div class="flex justify-center mt-5">
