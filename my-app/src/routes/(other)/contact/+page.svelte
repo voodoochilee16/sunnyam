@@ -42,7 +42,7 @@
               
           
       </div>
-      <form action="https://formsubmit.co/its.sunny.am@gmail.com" method="post" class="mt-5 flex flex-col items-center gap-1 md:gap-2">
+      <form action="https://formsubmit.co/its.sunny.band@gmail.com" method="post" class="mt-5 flex flex-col items-center gap-1 md:gap-2">
                 <label for="name"></label>
                 <input class="bg-mainorange border-4 border-borderorange h-[55px] md:w-[500px]" type="text" name="name" id="name" placeholder="Your name" />
                 <label for="name"></label>
