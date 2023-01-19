@@ -45,10 +45,10 @@
       <form action="https://formsubmit.co/its.sunny.band@gmail.com" method="post" class="mt-5 flex flex-col items-center gap-1 md:gap-2">
                 <label for="name"></label>
                 <input class="bg-mainorange border-4 border-borderorange h-[55px] md:w-[500px]" type="text" name="name" id="name" placeholder="Your name" />
-                <label for="name"></label>
+                <label for="email"></label>
                 <input class="bg-mainorange border-4 border-borderorange h-[55px] md:w-[500px]" type="email" name="email" id="name" placeholder="Your email"/>
-                <label for="name"></label>
-                <input class="bg-mainorange border-4 border-borderorange h-[200px] md:h-[200px] md:w-[500px]" type="text" name="message" id="name" placeholder="Your message"/>
+                <label for="message"></label>
+                <textarea class="bg-mainorange text-start border-4 border-borderorange h-[200px] md:h-[200px] md:w-[500px]" name="message" id="name" placeholder="Your message"/>
                 <button class="rounded-md mt-4 bg-no-repeat  w-[200px] h-[52px] bg-borderpink text-whitestar" type="submit">SUBMIT</button>
       </form>
       <Footercontact></Footercontact>
