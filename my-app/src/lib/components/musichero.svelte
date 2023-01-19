@@ -12,7 +12,7 @@
       </div> 
 
       <div>
-        <p class="text-[#EAE1C8] text-center">Seat back, relax and enjoy <br> SUNNY A.M.</p>
+        <p class="text-[#EAE1C8] text-center">Sit back, relax and enjoy <br> SUNNY A.M.</p>
       </div>
       <!-- logos -->
       <div class="flex flex-col gap-5">
