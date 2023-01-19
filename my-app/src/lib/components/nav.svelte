@@ -8,13 +8,20 @@ function toggleDrawer() {
 const drawer = document.getElementById('my-drawer');
 drawer.checked = !drawer.checked;
 }
+
+// function hiddenStars () {
+//         const stars = document.querySelectorAll('.star');
+//         stars.forEach(star => {
+//             star.classList.add('hidden');
+//         })
+//     }
 </script>
 
 
 
 <div class="flex flex-col justify-between items-center md:items-center md md:justify-between gap-6 p-4 w-[100vw] lg:w-[35vw] bg-[#F47D51] text-[#EAE1C8]">
     <ul class=" flex flex-col text-center mt-[100px] gap-4">
-        <button on:click={toggleDrawer}><img class="hover:text-mainorange w-[40px] fixed top-3 left-[85vw] md:left-[94vw] md:m-r-2 lg:left-[31.5vw] mb-8 mr-2" src="/close-burger.svg" alt=""></button>
+        <button on:click={toggleDrawer} on:click={hiddenStars}><img class="hover:text-mainorange w-[40px] fixed top-3 left-[85vw] md:left-[94vw] md:m-r-2 lg:left-[31.5vw] mb-8 mr-2" src="/close-burger.svg" alt=""></button>
         <li><a href ="/music"  class=" hover:text-mainorange font-bold text-xl md: lg:text-4xl">MUSIC</a></li>
         <li><a href ="/tour"  class=" hover:text-mainorange font-bold text-xl lg:text-4xl">TOUR</a></li>
         <li><a href ="https://sunnyam.bandcamp.com/merch"  class=" hover:text-mainorange font-bold text-xl lg:text-4xl">MERCH</a></li>

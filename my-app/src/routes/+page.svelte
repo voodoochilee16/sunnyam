@@ -43,10 +43,10 @@
   <header>
    
   </header>
-  <Whitestars></Whitestars>
+  <!-- <Whitestars></Whitestars> -->
 
 <Drawer></Drawer>
-<Whitestars></Whitestars>
+<!-- <Whitestars></Whitestars> -->
   
   <Footer></Footer>
 
