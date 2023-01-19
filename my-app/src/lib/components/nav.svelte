@@ -23,7 +23,7 @@ drawer.checked = !drawer.checked;
     <ul class=" flex flex-col text-center md:text-start mt-[100px] gap-4">
         <button on:click={toggleDrawer}><img class="hover:text-mainorange w-[40px] fixed top-3 left-[85vw] md:left-[94vw] md:m-r-2 lg:left-[31.5vw] mb-8 mr-2" src="/close-burger.svg" alt=""></button>
         <li><a href ="/music"  class=" hover:text-mainorange font-bold text-xl md: lg:text-4xl">MUSIC</a></li>
-        <li><a href ="/tour"  class=" hover:text-mainorange font-bold text-xl lg:text-4xl">TOUR</a></li>
+        <!-- <li><a href ="/tour"  class=" hover:text-mainorange font-bold text-xl lg:text-4xl">TOUR</a></li> -->
         <li><a href ="https://sunnyam.bandcamp.com/merch"  class=" hover:text-mainorange font-bold text-xl lg:text-4xl">MERCH</a></li>
         <li><a href ="/contact"  class=" hover:text-mainorange font-bold text-xl lg:text-4xl">CONTACT</a></li>
        

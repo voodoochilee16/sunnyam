@@ -46,7 +46,7 @@ let m = {x: 0, y: 0};
     <ul class=" flex flex-col mt-[100px] text-center md:text-start gap-4">
         <button on:click={toggleDrawer}><img class=" hover:text-borderorange w-[40px] fixed top-3 left-[85vw] md:left-[94vw] md:m-r-2 lg:left-[31.5vw] mb-8 mr-2" src="/close-burger2.svg" alt=""></button>
         <li><a href ="/music"  class=" hover:text-borderorange font-bold text-xl md: lg:text-4xl">MUSIC</a></li>
-        <li><a href ="/tour"  class=" hover:text-borderorange font-bold text-xl lg:text-4xl">TOUR</a></li>
+        <!-- <li><a href ="/tour"  class=" hover:text-borderorange font-bold text-xl lg:text-4xl">TOUR</a></li> -->
         <li><a href ="https://sunnyam.bandcamp.com/merch"  class=" hover:text-borderorange font-bold text-xl lg:text-4xl">MERCH</a></li>
         <li><a href ="/contact"  class=" hover:text-borderorange  font-bold text-xl lg:text-4xl">CONTACT</a></li>
        
