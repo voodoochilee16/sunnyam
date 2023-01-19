@@ -43,7 +43,7 @@ let m = {x: 0, y: 0};
 
 
 <div class="flex flex-col justify-between items-center md:items-center md md:justify-between gap-6 p-4 w-[100vw] lg:w-[35vw] bg-mainorange text-[#EAE1C8]">
-    <ul class=" flex flex-col mt-[100px] text-center gap-4">
+    <ul class=" flex flex-col mt-[100px] text-center md:text-start gap-4">
         <button on:click={toggleDrawer}><img class=" hover:text-borderorange w-[40px] fixed top-3 left-[85vw] md:left-[94vw] md:m-r-2 lg:left-[31.5vw] mb-8 mr-2" src="/close-burger2.svg" alt=""></button>
         <li><a href ="/music"  class=" hover:text-borderorange font-bold text-xl md: lg:text-4xl">MUSIC</a></li>
         <li><a href ="/tour"  class=" hover:text-borderorange font-bold text-xl lg:text-4xl">TOUR</a></li>
