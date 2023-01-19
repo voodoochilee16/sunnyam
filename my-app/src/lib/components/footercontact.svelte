@@ -7,6 +7,6 @@
         <li><a href="https://sunnyam.bandcamp.com/"><img class="w-[35px]" src="/bc.svg" alt=""></a></li>
         </ul>
     </nav>
-    <p class="hidden md:flex justify-center fixed bottom-2 ml-2   mb-4 mt-5 text-borderorange text-2xs">design by JBWIZARD and web development by VOODOOCHILEE @ Electric Daydreaming Studios</p>
+    <p class="hidden md:flex justify-center fixed bottom-2 ml-2   mb-4 mt-5 text-borderorange text-2xs">design by JBWIZARD and web development by VOODOOCHILEE</p>
     
 </footer>
