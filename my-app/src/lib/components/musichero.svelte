@@ -27,7 +27,7 @@
         </div>
         <!-- apple music -->
         <div class="flex justify-center border-2 border-[#EAE1C8]">
-          <a href="">
+          <a href="https://music.apple.com/pt/album/all-the-lights-on-ep/1659130427?l=en">
             <svg width="254" height="30" viewBox="0 0 254 30" fill="none" xmlns="http://www.w3.org/2000/svg">
             
               <g clip-path="url(#clip0_0_1)">
@@ -46,7 +46,7 @@
 
         
 <div class="flex justify-center border-2 border-[#EAE1C8]">
-  <a href="">
+  <a href="https://tidal.com/album/265572424">
     <svg width="100" height="30" id="layer" xmlns="http://www.w3.org/2000/svg" fill="#EAE1C8" viewBox="0 0 652 97">
       <!-- <rect x="26.77" y="16.56" width="27.6" height="27.6" transform="translate(-9.59 37.58) rotate(-45)"/> -->
       <polygon points="60 30.4 79.5 49.9 99 30.4 79.5 10.9 60 30.4"/>
